@@ -1,0 +1,500 @@
+   21  vi new_ligandSummaryFigure.py 
+   22  python new_ligandSummaryFigure.py 
+   23  vi new_ligandSummaryFigure.py 
+   24  cd akap_results_1
+   25  ls
+   26  ls -alrt
+   27  vi new_ligandSummaryFigure.py 
+   28  python new_ligandSummaryFigure.py 
+   29  ls -alrt
+   30  vi new_ligandSummaryFigure.py 
+   31  python new_ligandSummaryFigure.py 
+   32  cd ..
+   33  ls
+   34  vi new_ligandSummaryFigure.py 
+   35  vi cp_all.py 
+   36  python cp_all.py 
+   37  cd akap_results_9
+   38  ls
+   39  vi new_ligandSummaryFigure.py 
+   40  cd ..
+   41  ls
+   42  pwd
+   43  ls -alrt
+   44  vi run_all.py 
+   45  python run_
+   46  python run_all.py 
+   47  cd akap_results_1
+   48  ls
+   49  cd ..
+   50  cd akap_results_2
+   51  ls
+   52  ls -alrt
+   53  vi new_ligandSummaryFigure.py 
+   54  python new_ligandSummaryFigure.py 
+   55  ls -alrt
+   56  cd ..
+   57  cd akap_results_3
+   58  ls
+   59  ls -alrt
+   60  vi new_ligandSummaryFigure.py 
+   61  python new_ligandSummaryFigure.py 
+   62  ls -alrt
+   63  cd ..
+   64  cd akap_results_4
+   65  python new_ligandSummaryFigure.py
+   66  cd ..
+   67  cd akap_results_5
+   68  python new_ligandSummaryFigure.py
+   69  ls -alrt
+   70  cd ..
+   71  cd akap_results_6
+   72  ls
+   73  python new_ligandSummaryFigure.py
+   74  cd ../akap_results_6
+   75  python new_ligandSummaryFigure.py
+   76  cd ../akap_results_7
+   77  python new_ligandSummaryFigure.py
+   78  cd ../akap_results_8
+   79  python new_ligandSummaryFigure.py
+   80  cd ../akap_results_9
+   81  python new_ligandSummaryFigure.py
+   82  ls -alrt
+   83  cd ../akap_results_10
+   84  python new_ligandSummaryFigure.py
+   85  cd ../akap_results_11
+   86  python new_ligandSummaryFigure.py
+   87  cd ../akap_results_12
+   88  python new_ligandSummaryFigure.py
+   89  cd ../akap_results_13
+   90  python new_ligandSummaryFigure.py
+   91  cd ../akap_results_14
+   92  python new_ligandSummaryFigure.py
+   93  cd ../akap_results_15
+   94  python new_ligandSummaryFigure.py
+   95  cd ../akap_results_16
+   96  python new_ligandSummaryFigure.py
+   97  cd ../akap_results_17
+   98  python new_ligandSummaryFigure.py
+   99  cd ../akap_results_18
+  100  python new_ligandSummaryFigure.py
+  101  cd ../akap_results_19
+  102  python new_ligandSummaryFigure.py
+  103  cd ../akap_results_20
+  104  python new_ligandSummaryFigure.py
+  105  ls -alrt
+  106  cd ..
+  107  ls
+  108  pwd
+  109  vi cp_all.py 
+  110  ls
+  111  mkdir DrugSummary5_MAYfull
+  112  ls
+  113  ls -alrt
+  114  vi cp_all.py 
+  115  pwd
+  116  ls -alrt
+  117  ls DrugSummary5_MAYfull/
+  118  python cp_all.py 
+  119  ls -alrt
+  120  cd DrugSummary5_MAYfull/
+  121  ls
+  122  cd ..
+  123  vi cp_all.py 
+  124  vi cp_all.py 
+  125  cd akap_results_5
+  126  cp myDrug5Summary_new.png ../DrugSummary5_MAYfull/myDrug5Summary_new_5.png
+  127  cd ..
+  128  ls
+  129  ls -alrt
+  130  vi cp_all.py 
+  131  python cp_all.py 
+  132  vi cp_all.py 
+  133  python cp_all.py 
+  134  vi cp_all.py 
+  135  python cp_all.py 
+  136  pd
+  137  pwd
+  138  cd ..
+  139  ls
+  140  cd Top20May
+  141  history
+  142  ls -alrt
+  143  cp cp_all.py ../Top20ZINC/
+  144  cp new_ligandSummaryFigure.py ../Top20ZINC/
+  145  cd ../Top20ZINC/
+  146  ls
+  147  pwd
+  148  ls -alrt
+  149  cp cp_all.py cp_all2.py 
+  150  vi cp_all.py 
+  151  python cp_all
+  152  python cp_all.py 
+  153  cd zinc_results_18
+  154  ls -alrt
+  155  vi new_ligandSummaryFigure.py 
+  156  cd ..
+  157  ls -alrt
+  158  vi cp_all2.py 
+  159  cd zinc_results_1
+  160  ls -alrt
+  161  python new_ligandSummaryFigure.py 
+  162  ls -alrt
+  163  cd ../zinc_results_2
+  164  python new_ligandSummaryFigure.py 
+  165  ls -alrt
+  166  cd ../zinc_results_3
+  167  python new_ligandSummaryFigure.py 
+  168  cd ../zinc_results_4
+  169  python new_ligandSummaryFigure.py
+  170  cd ../zinc_results_5
+  171  python new_ligandSummaryFigure.py
+  172  cd ../zinc_results_6
+  173  python new_ligandSummaryFigure.py
+  174  cd ../zinc_results_7
+  175  python new_ligandSummaryFigure.py
+  176  cd ../zinc_results_8
+  177  python new_ligandSummaryFigure.py
+  178  cd ../zinc_results_9
+  179  python new_ligandSummaryFigure.py
+  180  cd ../zinc_results_10
+  181  python new_ligandSummaryFigure.py
+  182  cd ../zinc_results_11
+  183  python new_ligandSummaryFigure.py
+  184  cd ../zinc_results_12
+  185  python new_ligandSummaryFigure.py
+  186  cd ../zinc_results_13
+  187  python new_ligandSummaryFigure.py
+  188  cd ../zinc_results_14
+  189  python new_ligandSummaryFigure.py
+  190  cd ../zinc_results_15
+  191  python new_ligandSummaryFigure.py
+  192  cd ../zinc_results_16
+  193  python new_ligandSummaryFigure.py
+  194  cd ../zinc_results_17
+  195  python new_ligandSummaryFigure.py
+  196  cd ../zinc_results_18
+  197  python new_ligandSummaryFigure.py
+  198  cd ../zinc_results_19
+  199  python new_ligandSummaryFigure.py
+  200  cd ../zinc_results_20
+  201  python new_ligandSummaryFigure.py
+  202  pwd
+  203  cd ..
+  204  pwd
+  205  vi cp_all2.py 
+  206  python cp_all2.py 
+  207  mkdir DrugSummary5_ZINCfull
+  208  vi cp_all2.py 
+  209  python cp_all2.py 
+  210  cd DrugSummary5_ZINCfull/
+  211  ls
+  212  pwd
+  213  history
+  214  cd Desktop/raccoon/results/AKAP_ssshorey/Top20May
+  215  ls
+  216  ls -alrt
+  217  scp -rp ssshorey@opuntia.cacds.uh.edu:/project/craft/raccoon/results/AKAP_ssshorey/Top20May/sparkDFandReportL* .
+  218  vi sparkDFandReportLOG_111219.txt 
+  219  ssh ssshorey@opuntia.cacds.uh.edu
+  220  ls
+  221  ls
+  222  cd Desktop/
+  223  ls
+  224  cd Top20May/
+  225  ls
+  226  ls -alrt
+  227  cd akap_results_1
+  228  ls
+  229  history
+  230  which chimera
+  231  chimera
+  232  ssh ssshorey@opuntia.cacds.uh.edu
+  233  cd Documents/
+  234  ls
+  235  mkdir COSC-scripts
+  236  mv movielist.rtf COSC-scripts/
+  237  cd COSC-scripts/
+  238  ls
+  239  ls ..
+  240  vi py1.py
+  241  python py1.py 
+  242  python py1.py 
+  243  python py1.py 
+  244  python py1.py 
+  245  python py1.py 
+  246  python py1.py 
+  247  python py1.py 
+  248  python py1.py 
+  249  python py1.py 
+  250  pip install tensorflow
+  251  ls
+  252  python py1.py 
+  253  python py1.py 
+  254  python py1.py 
+  255  python py1.py 
+  256  python py1.py 
+  257  python py1.py 
+  258  python py1.py 
+  259  python py1.py 
+  260  python py1.py 
+  261  python py1.py 
+  262  python py1.py 
+  263  python py1.py 
+  264  python py1.py 
+  265  python py1.py 
+  266  python py1.py 
+  267  python py1.py 
+  268  python py1.py 
+  269  python py1.py 
+  270  python py1.py 
+  271  python py1.py 
+  272  python py1.py 
+  273  python py1.py 
+  274  python py1.py 
+  275  python py1.py 
+  276  python py1.py 
+  277  python py1.py 
+  278  python py1.py 
+  279  python py1.py 
+  280  python py1.py 
+  281  python py1.py 
+  282  python py1.py 
+  283  python py1.py 
+  284  python py1.py 
+  285  python py1.py 
+  286  python py1.py 
+  287  python py1.py 
+  288  python py1.py 
+  289  python py1.py 
+  290  python py1.py 
+  291  python py1.py 
+  292  python py1.py 
+  293  python py1.py 
+  294  python py1.py 
+  295  python py1.py 
+  296  python py1.py 
+  297  python py1.py 
+  298  python py1.py 
+  299  python py1.py 
+  300  python py1.py 
+  301  history
+  302  pyspark
+  303  cd Desktop/raccoon/data_new/AKAP/spark-dateresultsMAY.py
+  304  cd /Desktop/raccoon/data_new/AKAP/spark-dateresultsMAY.py
+  305  ls
+  306  cd Desktop/
+  307  cd raccoon/
+  308  cd data_new/
+  309  ls
+  310  pwd
+  311  ls
+  312  cd AKAP/
+  313  ls
+  314  ls -alrt
+  315  vi spark-dateresultsMAY
+  316  vi spark-dateresultsMAY.py 
+  317  ls
+  318  vi spark-dateresultsMAY.py 
+  319  ls
+  320  ls -alrt
+  321  vi spark-dateresultsV2.py
+  322  spark-submit spark-dateresultsV2.py 
+  323  spark-submit spark-dateresultsV2.py 
+  324  spark-submit spark-dateresultsV2.py 
+  325  pwd
+  326  spark-submit spark-dateresultsV2.py 
+  327  spark-submit spark-dateresultsV2.py 
+  328  spark-submit spark-dateresultsV2.py 
+  329  spark-submit spark-dateresultsV2.py 
+  330  spark-submit spark-dateresultsV2.py 
+  331  spark-submit spark-dateresultsV2.py 
+  332  cd MAY1/strategy1/
+  333  ls
+  334  cd ..
+  335  ls
+  336  cd ..
+  337  ls
+  338  spark-submit spark-dateresultsV2.py 
+  339  spark-submit spark-dateresultsV2.py 
+  340  ls
+  341  python python-dateresultsMAY.py 
+  342  ls
+  343  ssh ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  344  ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  345  ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  346  ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  347  ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  348  ssh jjwwcraft@104.43.231.82
+  349  pyspark
+  350  ls
+  351  cd /Users/sashankshorey/Desktop/raccoon/data_new/AKAP
+  352  cd MAY1
+  353  ls
+  354  cd strategy1/
+  355  ls
+  356  pyspark
+  357  ssh ssshorey@opuntia.cacds.uh.edu
+  358  ls
+  359  history
+  360  cd Desktop/
+  361  ls
+  362  cd raccoon/
+  363  ls
+  364  history
+  365  ls
+  366  cd data_new/
+  367  ls
+  368  cd AKAP
+  369  ls
+  370  cd MAY1
+  371  ls
+  372  cd ../..
+  373  ls
+  374  cd ../..
+  375  ls
+  376  ls -alrt
+  377  cd raccoon/
+  378  ls
+  379  cd data
+  380  ls
+  381  cd AKAP
+  382  ls
+  383  cd FDA
+  384  ls
+  385  cd strategy1/
+  386  ls
+  387  cd ..
+  388  cd
+  389  ;s
+  390  cd
+  391  ls
+  392  history
+  393  ssh jjwwcraft@104.43.231.82
+  394  q
+  395  ssh jjwwcraft@104.43.231.82
+  396  cd Desktop/Big\ Data\ Paper/
+  397  ls
+  398  scp -rp jjwwcraft@104.43.231.82:/usr/local/raccoon/data/AKAP/VMlogfiles.tar .
+  399  ls
+  400  ls
+  401  ls -alrt
+  402  mkdir VMlogfiles
+  403  mv VMlogfiles.tar VMlogfiles
+  404  cd VMlogfiles/
+  405  ls
+  406  tar -xvf VMlogfiles.tar 
+  407  ls
+  408  history
+  409  ssh ssshorey@opuntia.rcdc.uh.edu
+  410  ssh ssshorey@opuntia.rcdc.uh.edu
+  411  $ youtube-dl https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu
+  412  youtube-dl https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu
+  413  sudo apt-get youtube-dl
+  414  pip install youtube-dl
+  415  youtube-dl https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu
+  416  cd Desktop/
+  417  tar -cvf raccoon.tar raccoon/
+  418  ls
+  419  ssh jjwwcraft@104.43.231.82
+  420  ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  421  ssh <Login username>@52.165.233.145
+  422  ssh jjwwcraft@52.165.233.145
+  423  ssh jjwwcraft@52.165.233.145
+  424  history
+  425  ssh jjwwcraft@52.176.7.233
+  426  ssh jjwwcraft@104.43.231.82
+  427  ssh jjwwcraft@104.43.231.82
+  428  history
+  429  ssh ssshorey@sabine.rcdc.uh.edu
+  430  ssh jjwwcraft@104.43.199.212
+  431  cd Documents/
+  432  cd ..
+  433  cd Desktop/raccoon
+  434  ls
+  435  mkdir VMmachine
+  436  cd VMmachine/
+  437  scp -rp jjwwcraft@104.43.231.82:/usr/local/raccoon/data/file.tar .
+  438  pwd
+  439  ls
+  440  tar -xvf file.tar 
+  441  ls-alrt
+  442  ls -alrt
+  443  cd AKAP
+  444  ls
+  445  cd EG
+  446  ls
+  447  cd strategy1/
+  448  ls
+  449  vi LS-full
+  450  wc LS-full
+  451  pwd
+  452  ls
+  453  head LS-full 
+  454  tail LS-full 
+  455  vi nZINC000236884862-dock.pdbqt
+  456  pwd
+  457  cd ../..
+  458  ls
+  459  cd DG/strategy1/
+  460  ls
+  461  cd strategy1/
+  462  ls
+  463  vi LS-full
+  464  history
+  465  cd /Desktop/raccoon
+  466  ls
+  467  cd
+  468  cd Desktop/raccoon
+  469  ls
+  470  cd data
+  471  ls
+  472  cd AKAP
+  473  ls
+  474  exit
+  475  history
+  476  ls
+  477  pwd
+  478  ls
+  479  cd Desktop/raccoon
+  480  ls
+  481  exit
+  482  history
+  483  ssh sshuser@hdinsight-pyspark-3-ssh.azurehdinsight.net
+  484  history
+  485  history > HIST-01252020a
+  486  find . -name HIST"*" -print
+  487  history > HIST-01252020a
+  488  tail HIST-01252020a 
+  489  ssh jwcraft@craftserver1.nsm.e.uh.edu
+  490  history
+  491  ssh jjwwcraft@104.43.231.82
+  492  history
+  493  cd Desktop/raccoon
+  494  ls
+  495  ls data
+  496  tar -cvf shorey_local_raccoon_012520.tar VMmachine/ data_new/ bin/ results/ targets/
+  497  ls -alrt
+  498  ls -alrt
+  499  pwd
+  500  ls
+  501  cd Documents/SSProjects/
+  502  git clone https://github.com/username/username.github.io
+  503  git clone https://github.com/sashankio/sashankio.github.io
+  504  ls
+  505  ls -alrt
+  506  cd sashankio.github.io/
+  507  ls
+  508  echo "Hello World" > index.html
+  509  ls
+  510  vi index.html 
+  511  git add --all
+  512  git
+  513  git commit -m "Initial commit"
+  514  git push -u origin master
+  515  history
+  516  history tail
+  517  tail history
+  518  history -tail
+  519  tail history
+  520  history > HIST-02022020
